@@ -1,0 +1,6 @@
+{
+  "name": "Le Chemin pour le Nikah - Rencontre Matrimoniale Sérieuse",
+  "description": "Plateforme mobile de mise en relation digne et pudique vers le mariage islamique au Niger. Inscriptions vérifiées, paiement mobile sécurisé MyNita et Amanata.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
